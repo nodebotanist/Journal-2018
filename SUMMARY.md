@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [December 2017-- Planning and Context](chapter1.md)
+  * Context
+

@@ -1,3 +1,8 @@
-# My Awesome Book
+# Why a New Journal?
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Old one got too cluttered. Simple as that. It's still there and available publicily.
+
+
+
+
+
